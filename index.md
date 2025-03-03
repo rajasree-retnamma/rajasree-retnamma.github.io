@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Dr. Rajasree Retnamma's Website
+title: Dr. Rajasree Retnamma
 subtitle: PhD in Chemical Engineering, IIT Bombay
 ---
 
