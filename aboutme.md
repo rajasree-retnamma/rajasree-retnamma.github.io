@@ -16,9 +16,7 @@ What more could you ask for in a collaborator?
 
 I hold a **B.Tech. (Hons.) in Chemical Engineering** from the University of Calicut, India, followed by an **M.Tech. and Ph.D.** from the prestigious Indian Institute of Technology Bombay. My doctoral research, titled *"Computer-Aided Synthesis, Design and Optimization of Pressure Swing Adsorption (PSA) Processes"*, laid the foundation for my career in advanced process modeling. After my Ph.D., I pursued a **Post-Doctoral Fellowship** at Eindhoven University of Technology, Netherlands, where I explored the kinetics of automotive exhaust gas catalysis through modeling.
 
-My career has taken me across continents and institutions, including roles as a Researcher at the National Laboratory for Energy and Geology (LNEG) in Lisbon, Portugal; Research Professor at Hankyong National University, South Korea; Senior Research Associate at the National Chemical Laboratory, Pune, India; and Assistant Professor at Birla Institute of Technology and Science, Pilani, India, among others. 
-
-From 2021 to 2024, I was working as a Professor, Department of Chemical Engineering at Saintgits College of Engineering, Kottayam, India.
+My career has spanned continents and institutions, encompassing diverse roles such as Researcher at the National Laboratory for Energy and Geology (LNEG) in Lisbon, Portugal; Research Professor at Hankyong National University, South Korea; Senior Research Associate at the National Chemical Laboratory, Pune, India; and Assistant Professor at Birla Institute of Technology and Science, Pilani, India, among others, while I have also served as a Professor in the Department of Chemical Engineering at Saintgits College of Engineering, Kottayam, India.
 
 ### My Expertise
 
